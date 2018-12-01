@@ -29,5 +29,4 @@ public class OptimalCompressorTest extends TestCase {
         assertTrue(exitMessage.length() > message.length());
     }
 
-
 }

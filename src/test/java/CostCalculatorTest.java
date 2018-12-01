@@ -20,12 +20,15 @@ class CostCalculatorTest extends TestCase {
     }
 
     @Test
-    public void calculateEmptySms(){
-        assertEquals(costCalculator.calculateCost(),0);
+    public void costOfSms(){
+        int numberOfSMS = 10;
+        assertTrue(costCalculator.calculateCost(numberOfSMS).equals(BigDecimal.valueOf(3)));
     }
 
-
-
+    @Test
+    public void calculateEmptySms(){
+        assertEquals(costCalculator.calculateCost(0), COST);
+    }
 
     /*
     void toUpperCase(String expected, String input) {
@@ -38,4 +41,4 @@ class CostCalculatorTest extends TestCase {
                 Arguments.of("XXX", "xxx"),
                 Arguments.of("HELLO?", "hello?")
        */
-    }
+}

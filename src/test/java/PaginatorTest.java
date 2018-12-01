@@ -5,7 +5,7 @@ import org.junit.Test;
 public class PaginatorTest extends TestCase {
 
     private Paginator paginator;
-    private static int SMS_LENGTH = 10;
+    private static int SMS_LENGTH = 160;
 
 
     @Before
@@ -14,11 +14,8 @@ public class PaginatorTest extends TestCase {
     }
 
     @Test
-    public void CostCalculatorTest (){
+    public void paginate (){
         assertEquals(paginator.paginate("wertyujkmnbgfdsertyujmnbvfcd"),3);
     }
-
-
-
 
 }

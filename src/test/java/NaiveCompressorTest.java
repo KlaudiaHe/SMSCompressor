@@ -8,7 +8,6 @@ public class NaiveCompressorTest extends TestCase {
         private NaiveCompressor naiveCompressor;
         private static int SMS_LENGTH = 10;
 
-
         @Before
         public void setUpNaiveCompressor(int SMS_LENGTH){
             NaiveCompressor naiveCompressor = new NaiveCompressor();
@@ -20,7 +19,6 @@ public class NaiveCompressorTest extends TestCase {
             String exitMessage = "JavaJestFajna";
             assertEquals(naiveCompressor.smsCompressor(message),exitMessage);
 
-
             @Test
         public void NaiveDecompressTest(){
                 String message1 = "Java jest fajna";
@@ -28,11 +26,5 @@ public class NaiveCompressorTest extends TestCase {
                 assertEquals(naiveCompressor.smsDecompressor(exitMessage1), message1);
 
             }
-
-
-
-
         }
-
-
 }
