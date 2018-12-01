@@ -1,3 +1,4 @@
+/*
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
@@ -10,17 +11,17 @@ public class Main {
         System.out.println("Type in your message: ");
         Scanner input = new Scanner(System.in);
         String message = input.next();
-/*
+
         String[] texts = text.split(" ");
         text = text.substring(0,1).toUpperCase() + text.substring(1);
 
         for (int i = 0; i < texts.length; i++) {
-*/
+
         Main smsCompressor = new Main();
                smsCompressor(message);
 
-        }
-
+        } */
+/*
     @Override
     public String smsCompressor(String input) {
             InputStreamReader message = new InputStreamReader(System.in);
@@ -36,6 +37,8 @@ public class Main {
         return null;
     }
 }
+*/
+
 /*
 compressor- interface; klasa naiveCompressor z nastoletnią metodą; advancedCompressor;
 //costCalculator; klasa;
