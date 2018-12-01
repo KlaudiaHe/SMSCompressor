@@ -15,7 +15,7 @@ public class PaginatorTest extends TestCase {
 
     @Test
     public void paginate (){
-        assertEquals(paginator.paginate("wertyujkmnbgfdsertyujmnbvfcd"),3);
+        assertEquals(paginator.paginate("wertyujkascsdghsryhrtgtrsjtdyhbtrgarmndddddddddddddbgfdsertyujmnbvfcd").length,2);
     }
-
+//string
 }

@@ -28,7 +28,7 @@ class CostCalculatorTest extends TestCase {
     @Test
     public void calculateEmptySms(){
         assertEquals(costCalculator.calculateCost(0), COST);
-    }
+    }   //jak to zapisać;
 
     /*
     void toUpperCase(String expected, String input) {
