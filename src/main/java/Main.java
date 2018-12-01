@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class smsCompressor implements SMSCompression {
+public class Main {
 
     public static void main(String[] args) {
         System.out.println("Type in your message: ");
@@ -16,7 +16,7 @@ public class smsCompressor implements SMSCompression {
 
         for (int i = 0; i < texts.length; i++) {
 */
-        smsCompressor smsCompressor = new smsCompressor();
+        Main smsCompressor = new Main();
                smsCompressor(message);
 
         }
