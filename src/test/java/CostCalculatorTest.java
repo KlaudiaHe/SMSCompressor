@@ -11,7 +11,7 @@ class CostCalculatorTest extends TestCase {
 
     @Before
     public void setUpCalculator(BigDecimal cost){
-        CostCalculator costCalculator = new CostCalculator();
+        CostCalculator costCalculator = new CostCalculator(COST);
     }
 
     @Test
