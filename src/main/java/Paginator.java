@@ -1,29 +1,30 @@
+import java.util.Collection;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.Collectors;
+
 public class Paginator {
-private static int SMS_LENGTH;
 
-    public Paginator(int sms_length) {
-        this.SMS_LENGTH = sms_length;
+    public static void main(String[] args) {
+        Paginator paginator = new Paginator(10);
+        String text = "iuqqqqqqqqqqqqqqqqqqqqqqqqqqqaaaaaaaaaaaaaaaaaaauyhgfdvbqqqqqqqqqqqqqdddddeeeeeeeeeeeeeefggggkkkkkkkkkfffffffffffffffffggggggggggggggggggggggggggkkdddddddddddddddddddddddddddd";
+        System.out.println(paginator.paginate(text));
+
     }
 
 
-    public String [] paginate(String text) {
-        int SMS_LENGTH = 160;
-        text = text.replaceAll(" ", "");
-        char [] characters = new char[SMS_LENGTH];
-        char[] characters2 = new char [SMS_LENGTH];
+    private final int LENGTH;
 
-       // strings = text.split(" ");
-      //  return strings.length;
-        for (int i = 0; i <text.length(); i++) {
-            if (i < 160)  {
-            characters[i] = text.charAt(i);
-        } else {
-
-     //   return (int)text.length() / 160;
+    public Paginator(int length) {
+        this.LENGTH = length;
     }
-//dla dluzszych i krotszych
 
 
-
-
-}
+    public Collection <String> paginate(String text) {
+        final AtomicInteger atomicInteger = new AtomicInteger(0);
+         Collection<String> result = text.chars()
+                .mapToObj(c -> String.valueOf((char) c))
+                .collect(Collectors.groupingBy(c -> atomicInteger.getAndIncrement() / LENGTH
+                        , Collectors.joining()))
+                .values();
+         return result;
+    }}

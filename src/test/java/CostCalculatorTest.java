@@ -3,8 +3,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.math.BigDecimal;
+import java.util.ArrayList;
 
 class CostCalculatorTest extends TestCase {
+
 
     private CostCalculator costCalculator;
     BigDecimal COST = BigDecimal.valueOf(0.3);
@@ -14,31 +16,21 @@ class CostCalculatorTest extends TestCase {
         CostCalculator costCalculator = new CostCalculator(COST);
     }
 
-    @Test
-    public void CostCalculatorTest (){
-        assertEquals(costCalculator.calculateCost(5), BigDecimal.valueOf(1.5));
+@Test
+    public void CostCalculator (){
+        ArrayList<String> setOfExemplarySMS = new ArrayList<String>();
+        setOfExemplarySMS.add("hgfds");
+        setOfExemplarySMS.add("hgfds");
+        setOfExemplarySMS.add("hytrgef");
+
+        assertEquals(costCalculator.calculateCost(setOfExemplarySMS), BigDecimal.valueOf(0.9));
     }
 
-    @Test
-    public void costOfSms(){
-        int numberOfSMS = 10;
-        assertTrue(costCalculator.calculateCost(numberOfSMS).equals(BigDecimal.valueOf(3)));
-    }
-
-    @Test
+@Test
     public void calculateEmptySms(){
-        assertEquals(costCalculator.calculateCost(0), COST);
-    }   //jak to zapisać;
-
-    /*
-    void toUpperCase(String expected, String input) {
-        assertEquals(expected, Main.(input));
+        ArrayList<String> setOfExemplarySMS = new ArrayList<String>();
+        setOfExemplarySMS.add(" ");
+        assertEquals(costCalculator.calculateCost(setOfExemplarySMS), COST);
     }
-    private static Stream<Arguments> inputProvider() {
-        return Stream.of(
-                Arguments.of("TEST", "test"),
-                Arguments.of("TEST TEST", "test test"),
-                Arguments.of("XXX", "xxx"),
-                Arguments.of("HELLO?", "hello?")
-       */
+
 }

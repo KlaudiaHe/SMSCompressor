@@ -17,8 +17,8 @@ public class NaiveCompressorTest extends TestCase {
         public void NaiveCompressTest () {
             String message = "Java jest fajna";
             String exitMessage = "JavaJestFajna";
-            assertEquals(naiveCompressor.smsCompressor(message),exitMessage);
-
+            assertEquals(naiveCompressor.smsCompressor(message), exitMessage);
+        }
             @Test
         public void NaiveDecompressTest(){
                 String message1 = "Java jest fajna";
@@ -27,4 +27,4 @@ public class NaiveCompressorTest extends TestCase {
 
             }
         }
-}
+
