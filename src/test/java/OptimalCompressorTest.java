@@ -4,14 +4,14 @@ import org.junit.Test;
 
 import static junit.framework.TestCase.assertTrue;
 
-public class TestOptimalCompressor {
+public class OptimalCompressorTest {
 
     private OptimalCompressor optimalCompressor;
     private static int SMS_LENGTH = 10;
 
 
     @Before
-    public void setUpOptimalCompressor(int SMS_LENGTH){
+    public void setUpOptimalCompressor(){
         OptimalCompressor optimalCompressor = new OptimalCompressor();
     }
 

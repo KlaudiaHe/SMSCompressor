@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(JUnitParamsRunner.class)
-public class TestCostCalculatorParameterized {
+public class CostCalculatorParameterizedTest {
 
 
     @Test

@@ -4,13 +4,13 @@ import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
 
-public class TestNaiveCompressor {
+public class NaiveCompressorTest {
 
         private NaiveCompressor naiveCompressor;
         private static int SMS_LENGTH = 10;
 
         @Before
-        public void setUpNaiveCompressor(int SMS_LENGTH){
+        public void setUpNaiveCompressor(){
             NaiveCompressor naiveCompressor = new NaiveCompressor();
         }
 

@@ -6,14 +6,14 @@ import java.util.Collection;
 import static java.lang.reflect.Array.get;
 import static junit.framework.TestCase.assertEquals;
 
-public class TestPaginator {
+public class PaginatorTest {
 
     private Paginator paginator;
     private static int SMS_LENGTH = 3;
 
 
     @Before
-    public void setUpPaginator(int SMS_LENGTH){
+    public void setUpPaginator(){
         Paginator paginator = new Paginator(SMS_LENGTH);
     }
 

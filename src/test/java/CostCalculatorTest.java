@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import static junit.framework.TestCase.assertEquals;
 
-public class TestCostCalculator {
+public class CostCalculatorTest {
 
     private CostCalculator costCalculator;
     BigDecimal COST = BigDecimal.valueOf(0.3);
