@@ -1,4 +1,5 @@
-/* import junitparams.JUnitParamsRunner;
+/*
+import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 
 import org.junit.Test;
@@ -9,7 +10,7 @@ import java.math.BigDecimal;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(JUnitParamsRunner.class)
-public class CostCalculatorParameterizedTest {
+public class TestCostCalculatorParameterized {
 
 
     @Test
@@ -29,6 +30,4 @@ public class CostCalculatorParameterizedTest {
         };
     }
 
-}
-
-*/
+} */

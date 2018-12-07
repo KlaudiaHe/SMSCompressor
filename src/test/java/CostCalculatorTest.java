@@ -1,23 +1,21 @@
-import junit.framework.TestCase;
 import org.junit.Before;
 import org.junit.Test;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
+import static junit.framework.TestCase.assertEquals;
 
-class CostCalculatorTest extends TestCase {
-
+public class TestCostCalculator {
 
     private CostCalculator costCalculator;
     BigDecimal COST = BigDecimal.valueOf(0.3);
 
-    @Before
-    public void setUpCalculator(BigDecimal cost){
+@Before
+    public void setUpCalculator(){
         CostCalculator costCalculator = new CostCalculator(COST);
     }
 
 @Test
-    public void CostCalculator (){
+    public void testCostCalculator (){
         ArrayList<String> setOfExemplarySMS = new ArrayList<String>();
         setOfExemplarySMS.add("hgfds");
         setOfExemplarySMS.add("hgfds");

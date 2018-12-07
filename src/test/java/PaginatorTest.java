@@ -1,12 +1,12 @@
-import junit.framework.TestCase;
 import org.junit.Before;
 import org.junit.Test;
 
 import java.util.Collection;
 
 import static java.lang.reflect.Array.get;
+import static junit.framework.TestCase.assertEquals;
 
-public class PaginatorTest extends TestCase {
+public class TestPaginator {
 
     private Paginator paginator;
     private static int SMS_LENGTH = 3;
@@ -18,7 +18,7 @@ public class PaginatorTest extends TestCase {
     }
 
     @Test
-    public void paginate (){
+    public void testPaginate (){
         String example = "wertyujkr";
         Collection<String> result = paginator.paginate(example);
         assertEquals(paginator.paginate(example).size(), 3);

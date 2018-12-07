@@ -1,9 +1,10 @@
 import Compressor.NaiveCompressor;
-import junit.framework.TestCase;
 import org.junit.Before;
 import org.junit.Test;
 
-public class NaiveCompressorTest extends TestCase {
+import static junit.framework.TestCase.assertEquals;
+
+public class TestNaiveCompressor {
 
         private NaiveCompressor naiveCompressor;
         private static int SMS_LENGTH = 10;
@@ -14,13 +15,13 @@ public class NaiveCompressorTest extends TestCase {
         }
 
         @Test
-        public void NaiveCompressTest () {
+        public void testNaiveCompressor () {
             String message = "Java jest fajna";
             String exitMessage = "JavaJestFajna";
             assertEquals(naiveCompressor.smsCompressor(message), exitMessage);
         }
             @Test
-        public void NaiveDecompressTest(){
+        public void testNaiveDecompressor (){
                 String message1 = "Java jest fajna";
                 String exitMessage1 = "JavaJestFajna";
                 assertEquals(naiveCompressor.smsDecompressor(exitMessage1), message1);

@@ -1,9 +1,10 @@
 import Compressor.OptimalCompressor;
-import junit.framework.TestCase;
 import org.junit.Before;
 import org.junit.Test;
 
-public class OptimalCompressorTest extends TestCase {
+import static junit.framework.TestCase.assertTrue;
+
+public class TestOptimalCompressor {
 
     private OptimalCompressor optimalCompressor;
     private static int SMS_LENGTH = 10;
@@ -15,7 +16,7 @@ public class OptimalCompressorTest extends TestCase {
     }
 
     @Test
-    public void OptimalCompressTest () {
+    public void testOptimalCompressor() {
         String message = "Java jest fajna";
         String exitMessage = optimalCompressor.smsCompressor(message);
         assertTrue(exitMessage.length() < message.length());
@@ -23,7 +24,7 @@ public class OptimalCompressorTest extends TestCase {
     }
 
     @Test
-    public void OptimalDecompressTest(){
+    public void testOptimalDecompressor(){
         String message = "JavaJestFajna";
         String exitMessage = optimalCompressor.smsDecompressor(message);
         assertTrue(exitMessage.length() > message.length());
