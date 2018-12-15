@@ -31,4 +31,5 @@ public class Paginator {
                 .values();
         List<String> paginatedText = new ArrayList<>(result);
     return paginatedText;
-    }}
+    }
+}

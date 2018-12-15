@@ -1,49 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
     <list default="true" id="90e2b0b8-f156-45fc-9305-48f3985d4460" name="Default Changelist" comment="">
-<<<<<<< Updated upstream
-      <change afterPath="$PROJECT_DIR$/.idea/SMS Compressor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JSmaz/JSmaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PicocliMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/main/java/PicocliApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/annotation-processors.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
->>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Compressor/NaiveCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Compressor/NaiveCompressor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CostCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CostCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Paginator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Paginator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PaginatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PaginatorTest.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/SMS Compressor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SMSCompressor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/fatJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/fatJar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
->>>>>>> Stashed changes
     </list>
-=======
-    <list default="true" id="90e2b0b8-f156-45fc-9305-48f3985d4460" name="Default Changelist" comment="" />
->>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -74,17 +48,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="SMS Compressor" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SMS Compressor" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="SMS Compressor" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -93,98 +56,44 @@
     </system>
   </component>
   <component name="FileEditorManager">
-<<<<<<< Updated upstream
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-<<<<<<< Updated upstream
-        <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="260">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
               </folding>
-=======
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
->>>>>>> Stashed changes
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="220">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PicocliMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="100">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< Updated upstream
-        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/reflect/Method.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="563" selection-start-line="563" selection-end-line="563" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-              <folding>
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
->>>>>>> Stashed changes
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< Updated upstream
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
->>>>>>> Stashed changes
+            <state relative-caret-position="444">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -193,71 +102,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< Updated upstream
-        <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/NaiveCompressor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-        <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
->>>>>>> Stashed changes
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="299">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-=======
-            <state relative-caret-position="580">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
->>>>>>> Stashed changes
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
->>>>>>> Stashed changes
+            <state relative-caret-position="237">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -266,9 +114,6 @@
         </entry>
       </file>
     </leaf>
-=======
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
->>>>>>> Stashed changes
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -278,13 +123,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>paginate(</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -294,7 +139,6 @@
         <option value="$PROJECT_DIR$/src/main/java/SMSCompressor.java" />
         <option value="$PROJECT_DIR$/src/main/java/SMSCompression.java" />
         <option value="$PROJECT_DIR$/src/main/java/smsCompressor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java" />
         <option value="$PROJECT_DIR$/src/test/java/smsCompressorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CompressorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/OptimalCompressor.java" />
@@ -302,7 +146,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Compressor/Compressor.java" />
         <option value="$PROJECT_DIR$/src/main/java/CostCalculator.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCostCalculatorParameterized.java" />
@@ -316,15 +159,9 @@
         <option value="$PROJECT_DIR$/src/test/java/PaginatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Paginator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Compressor/NaiveCompressor.java" />
-<<<<<<< Updated upstream
-=======
-        <option value="$PROJECT_DIR$/src/main/java/Jsmaz/JSMaz.java" />
-        <option value="$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JSmaz/JSmaz.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PicocliApp.java" />
->>>>>>> Stashed changes
+        <option value="$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java" />
       </list>
     </option>
   </component>
@@ -335,65 +172,77 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-<<<<<<< Updated upstream
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-=======
-    <option name="x" value="41" />
-    <option name="y" value="5" />
->>>>>>> Stashed changes
-    <option name="width" value="1545" />
-    <option name="height" value="1040" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <compactDirectories Scope="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
-              <item name="SMS Compressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SMS Compressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="fatJar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SMS Compressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SMS Compressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-<<<<<<< Updated upstream
               <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SMS Compressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -401,104 +250,11 @@
             </path>
             <path>
               <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SMS Compressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SMSCompressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SMS Compressor" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="Klaudia" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Klaudia" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Klaudia" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Klaudia" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Klaudia" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="BMICalculator" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="SMS Compressor" type="58d84e3e:PackageViewProjectNode" />
-              <item name="SMS_Compressor" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="58d84e3e:PackageViewProjectNode" />
-              <item name="SMS_Compressor" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="SMS_Compressor_main" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="58d84e3e:PackageViewProjectNode" />
-              <item name="SMS_Compressor" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="SMS_Compressor_test" type="616d4139:PackageViewModuleNode" />
->>>>>>> Stashed changes
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-<<<<<<< Updated upstream
-              <item name="SMS Compressor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Klaudia" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="BMICalculator" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SMS Compressor" type="58d84e3e:PackageViewProjectNode" />
-              <item name="SMS_Compressor" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="58d84e3e:PackageViewProjectNode" />
-              <item name="SMS_Compressor" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="SMS_Compressor_main" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="SMS Compressor" type="58d84e3e:PackageViewProjectNode" />
-              <item name="SMS_Compressor" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="SMS_Compressor_test" type="616d4139:PackageViewModuleNode" />
->>>>>>> Stashed changes
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-=======
->>>>>>> Stashed changes
-              <item name="SMS Compressor" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="SmsCompressor" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="JSmaz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -510,12 +266,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-<<<<<<< Updated upstream
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544217817870" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544464443787" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> Stashed changes
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544866378341" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -532,18 +283,9 @@
       </list>
     </option>
   </component>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  <component name="RunManager" selected="JUnit.NaiveCompressorTest">
-    <configuration name="CostCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CostCalculator" />
-=======
-=======
->>>>>>> Stashed changes
-  <component name="RunManager" selected="Gradle.SMS Compressor [jar]">
+  <component name="RunManager" selected="Application.PicocliMain">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
->>>>>>> Stashed changes
       <module name="SMS_Compressor_main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -562,18 +304,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    <configuration name="Paginator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Paginator" />
+    <configuration name="PicocliMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PicocliMain" />
       <module name="SMS_Compressor_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-=======
-=======
->>>>>>> Stashed changes
-    <configuration name="SMS Compressor [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    </configuration>
+    <configuration name="SMSCompressor [fatJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -584,25 +322,13 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="jar" />
+            <option value="fatJar" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-    </configuration>
-    <configuration name="CostCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SMS_Compressor_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CostCalculatorTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="NaiveCompressorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SMS_Compressor_test" />
@@ -613,47 +339,19 @@
       </method>
     </configuration>
     <list>
-<<<<<<< Updated upstream
-      <item itemvalue="Application.Paginator" />
-      <item itemvalue="JUnit.CostCalculatorTest" />
-      <item itemvalue="Application.CostCalculator" />
       <item itemvalue="Application.NaiveCompressor" />
       <item itemvalue="JUnit.NaiveCompressorTest" />
+      <item itemvalue="Application.PicocliMain" />
+      <item itemvalue="Gradle.SMSCompressor [fatJar]" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PicocliMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.SMSCompressor [fatJar]" />
         <item itemvalue="JUnit.NaiveCompressorTest" />
         <item itemvalue="Application.NaiveCompressor" />
-        <item itemvalue="Application.CostCalculator" />
-        <item itemvalue="JUnit.CostCalculatorTest" />
-        <item itemvalue="Application.Paginator" />
-=======
-      <item itemvalue="Application.OptimalCompressor" />
-      <item itemvalue="Application.Main" />
-<<<<<<< Updated upstream
-      <item itemvalue="Gradle.SMS Compressor [jar]" />
-=======
->>>>>>> Stashed changes
-      <item itemvalue="JUnit.OptimalCompressorTest.testOptimalCompressor" />
-      <item itemvalue="JUnit.OptimalCompressorTest.testOptimalDecompressor" />
-      <item itemvalue="Gradle.SMS Compressor [jar]" />
-    </list>
-    <recent_temporary>
-      <list>
-<<<<<<< Updated upstream
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Gradle.SMS Compressor [jar]" />
-        <item itemvalue="Application.OptimalCompressor" />
-        <item itemvalue="JUnit.OptimalCompressorTest.testOptimalDecompressor" />
-        <item itemvalue="JUnit.OptimalCompressorTest.testOptimalCompressor" />
->>>>>>> Stashed changes
-=======
-        <item itemvalue="JUnit.OptimalCompressorTest.testOptimalDecompressor" />
-        <item itemvalue="JUnit.OptimalCompressorTest.testOptimalCompressor" />
-        <item itemvalue="Gradle.SMS Compressor [jar]" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.OptimalCompressor" />
->>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -727,15 +425,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83870965" visible="true" weight="0.20067114" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83870965" visible="true" weight="0.30604026" />
->>>>>>> Stashed changes
-=======
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83870965" weight="0.2785235" />
->>>>>>> Stashed changes
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83870965" visible="true" weight="0.09597316" />
       <window_info id="Structure" order="1" sideWeight="0.16129032" side_tool="true" weight="0.13489933" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -745,22 +435,14 @@
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49932885" weight="0.22521247" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-<<<<<<< Updated upstream
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932885" weight="0.19971672" />
-=======
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932885" visible="true" weight="0.32577905" />
->>>>>>> Stashed changes
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49932885" visible="true" weight="0.19971672" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
-<<<<<<< Updated upstream
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49932885" visible="true" weight="0.2549575" />
-=======
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932885" weight="0.45184135" />
->>>>>>> Stashed changes
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932885" weight="0.28328612" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.43829787" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32904148" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -770,7 +452,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.03624161" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.3295302" />
       <window_info anchor="right" id="Maven" order="9" weight="0.3295302" />
     </layout>
     <layout-to-restore>
@@ -857,13 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/Compressor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -871,15 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -887,68 +553,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jsmaz/JSmaz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-=======
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Jsmaz/JSmaz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
->>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
->>>>>>> Stashed changes
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/NaiveCompressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
->>>>>>> Stashed changes
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -957,25 +571,12 @@
             <element signature="e#319#320#0" expanded="true" />
             <element signature="e#396#397#0" expanded="true" />
           </folding>
-=======
-=======
->>>>>>> Stashed changes
-    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/Compressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CostCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
         <state relative-caret-position="299">
-=======
-        <state relative-caret-position="460">
->>>>>>> Stashed changes
           <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -983,34 +584,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/NaiveCompressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
->>>>>>> Stashed changes
-=======
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CostCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
->>>>>>> Stashed changes
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1042,122 +615,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/NaiveCompressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
->>>>>>> Stashed changes
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="580">
-=======
-        <state relative-caret-position="299">
->>>>>>> Stashed changes
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="400">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
->>>>>>> Stashed changes
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-=======
-        <state relative-caret-position="299">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="98">
+          <caret line="802" column="18" selection-start-line="802" selection-start-column="18" selection-end-line="802" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.picocli/picocli/3.8.2/4b7761f5b0daa928567b58eab20878e81692df6e/picocli-3.8.2-sources.jar!/picocli/CommandLine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
->>>>>>> Stashed changes
+        <state relative-caret-position="133">
+          <caret line="1869" column="66" selection-start-line="1869" selection-start-column="66" selection-end-line="1869" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/NaiveCompressor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
->>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JSmaz/JSmaz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PicocliMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

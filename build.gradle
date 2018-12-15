@@ -16,7 +16,7 @@ task fatJar(type: Jar) {
     manifest {
         attributes 'Implementation-Title': 'Gradle Jar File Example',
                 'Implementation-Version': version,
-                'Main-Class': 'Main'
+                'Main-Class': 'PicocliMain'
     }
     baseName = project.name + '-all'
     from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
@@ -29,4 +29,6 @@ dependencies {
     testCompile 'pl.pragmatists:JUnitParams:1.1.1'
     testCompile group: 'pl.pragmatists', name: 'JUnitParams', version: '1.1.0'
     compile 'info.picocli:picocli:3.8.2'
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.+'
+    compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.6.4'
 }
