@@ -1,9 +1,4 @@
-import picocli.CommandLine;
+package PACKAGE_NAME;
 
 public class Main {
-    public static void main(String[] args) {
-        PicocliApp cla = new PicocliApp();
-        new CommandLine(cla).parse(args);
-        cla.run();
-    }
 }
