@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
@@ -21,7 +20,7 @@ public class Paginator {
     }
 
 
-    public List<String> paginate(String text) {
+    public Collection<String> paginate(String text) {
         final AtomicInteger atomicInteger = new AtomicInteger(0);
         //List<String> compressedText = new ArrayList<>();
          Collection<String> result = text.chars()
@@ -29,7 +28,7 @@ public class Paginator {
                 .collect(Collectors.groupingBy(c -> atomicInteger.getAndIncrement() / LENGTH
                         , Collectors.joining()))
                 .values();
-        List<String> paginatedText = new ArrayList<>(result);
+        Collection<String> paginatedText = new ArrayList<>(result);
     return paginatedText;
     }
 }

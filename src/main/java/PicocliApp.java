@@ -5,7 +5,7 @@ import picocli.CommandLine.Option;
 import picocli.CommandLine.Parameters;
 
 import java.math.BigDecimal;
-import java.util.List;
+import java.util.Collection;
 
 public class PicocliApp {
     @Option(names="-l", description = "Length of the message.")
@@ -34,7 +34,7 @@ public class PicocliApp {
             System.out.println("Your decoded message: " + decompressedMessage);
         } else {
             String compressedMessage = smsCompressor.smsCompressor(text);
-            List<String> paginatedMessage = paginator.paginate(compressedMessage);
+            Collection<String> paginatedMessage = paginator.paginate(compressedMessage);
             System.out.println("Your coded and splited message: " + (paginatedMessage).toString());
             System.out.println("Cost of your message(s): " + calculator.calculateCost(paginatedMessage));
         }

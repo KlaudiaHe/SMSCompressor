@@ -11,7 +11,7 @@ public class CostCalculatorTest {
 
 @Before
     public void setUpCalculator(){
-        CostCalculator costCalculator = new CostCalculator(COST);
+        costCalculator = new CostCalculator(COST);
     }
 
 @Test

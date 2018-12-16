@@ -3,7 +3,7 @@ import Compressor.NaiveCompressor;
 import Compressor.OptimalCompressor;
 
 import java.math.BigDecimal;
-import java.util.List;
+import java.util.Collection;
 import java.util.Scanner;
 
 public class Main{
@@ -30,7 +30,7 @@ public class Main{
         }
 
         String compressed = compressor.smsCompressor(message);
-        List<String> paginated = paginator.paginate(compressed);
+        Collection<String> paginated = paginator.paginate(compressed);
         System.out.println(paginated);
         System.out.println("Cost of your message(s): " + calculator.calculateCost(paginated));
         String decompressedAgain = compressor.smsDecompressor(compressed);

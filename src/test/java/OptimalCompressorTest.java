@@ -10,16 +10,16 @@ public class OptimalCompressorTest {
     private static int SMS_LENGTH = 10;
 
 
-    @Before
+        @Before
     public void setUpOptimalCompressor(){
-        OptimalCompressor optimalCompressor = new OptimalCompressor();
+        optimalCompressor = new OptimalCompressor();   //a był nullpointer exception, gdyż... 2 razy inicjalizowany był nowy; jako prywatne pole i w setupie
     }
 
     @Test
     public void testOptimalCompressor() {
         String message = "Java jest fajna";
         String exitMessage = optimalCompressor.smsCompressor(message);
-        assertTrue(exitMessage.length() < message.length());
+        assertTrue(message.length() >= exitMessage.length());
 
     }
 

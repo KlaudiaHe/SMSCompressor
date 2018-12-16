@@ -11,7 +11,7 @@ public class NaiveCompressorTest {
 
         @Before
         public void setUpNaiveCompressor(){
-            NaiveCompressor naiveCompressor = new NaiveCompressor();
+             naiveCompressor = new NaiveCompressor();
         }
 
         @Test
@@ -22,7 +22,7 @@ public class NaiveCompressorTest {
         }
             @Test
         public void testNaiveDecompressor (){
-                String message1 = "Java jest fajna";
+                String message1 = "java jest fajna";
                 String exitMessage1 = "JavaJestFajna";
                 assertEquals(naiveCompressor.smsDecompressor(exitMessage1), message1);
 
