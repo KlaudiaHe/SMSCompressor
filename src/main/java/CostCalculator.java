@@ -15,9 +15,10 @@ public class CostCalculator {
 
     public BigDecimal calculateCost (Collection<String> pieces) {
          finalCost = BigDecimal.valueOf(pieces.size()).multiply(COST);
-         return finalCost; //robić taką zmienną?
+            return finalCost;
+         //    BigDecimal rounded = finalCost.setScale(2, RoundingMode.CEILING); //robić taką zmienną?
+        //    return rounded;
     }
-
 
     public static void main(String[] args) {
          Collection<String> exemplarySMS = new ArrayList<>();

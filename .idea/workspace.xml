@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90e2b0b8-f156-45fc-9305-48f3985d4460" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CostCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CostCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Paginator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Paginator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PicocliApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PicocliApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PaginatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PaginatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -56,34 +47,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-89">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="36" column="32" selection-start-line="36" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -91,58 +58,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-end-line="15" />
+            <state relative-caret-position="180">
+              <caret line="23" column="92" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#830#838#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CostCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CostCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-              <folding>
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="34" column="84" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="20">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -150,12 +91,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            <state relative-caret-position="220">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="394">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -204,7 +143,6 @@
         <option value="$PROJECT_DIR$/src/test/java/OptimalCompressor.java" />
         <option value="$PROJECT_DIR$/src/test/java/CostCalcuatorParameterizedTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Compressor/Compressor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CostCalculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCostCalculatorParameterized.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCostCalculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCostCalculator.java" />
@@ -215,14 +153,15 @@
         <option value="$PROJECT_DIR$/src/main/java/JSmaz/JSmaz.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/Compressor/OptimalCompressor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/OptimalCompressorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/PicocliApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/Paginator.java" />
         <option value="$PROJECT_DIR$/src/test/java/PaginatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CostCalculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CostCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -233,8 +172,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
     <option name="width" value="1545" />
     <option name="height" value="1040" />
   </component>
@@ -341,7 +280,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544986668966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545485391830" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -358,31 +297,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CostCalculatorParameterizedTest.simpleCalcTest">
+  <component name="RunManager" selected="JUnit.CostCalculatorParameterizedTest">
     <configuration name="CostCalculatorParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SMS_Compressor_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CostCalculatorParameterizedTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CostCalculatorParameterizedTest.createExemplarySms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SMS_Compressor_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CostCalculatorParameterizedTest" />
-      <option name="METHOD_NAME" value="createExemplarySms" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CostCalculatorParameterizedTest.simpleCalcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SMS_Compressor_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CostCalculatorParameterizedTest" />
-      <option name="METHOD_NAME" value="simpleCalcTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -395,30 +314,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaginatorTest.testPaginate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NaiveCompressorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SMS_Compressor_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NaiveCompressorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptimalCompressorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SMS_Compressor_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OptimalCompressorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaginatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SMS_Compressor_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PaginatorTest" />
-      <option name="METHOD_NAME" value="testPaginate" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PaginatorTest.testPaginate" />
       <item itemvalue="JUnit.CostCalculatorParameterizedTest" />
       <item itemvalue="JUnit.CostCalculatorTest" />
-      <item itemvalue="JUnit.CostCalculatorParameterizedTest.simpleCalcTest" />
-      <item itemvalue="JUnit.CostCalculatorParameterizedTest.createExemplarySms" />
+      <item itemvalue="JUnit.NaiveCompressorTest" />
+      <item itemvalue="JUnit.OptimalCompressorTest" />
+      <item itemvalue="JUnit.PaginatorTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CostCalculatorParameterizedTest.simpleCalcTest" />
         <item itemvalue="JUnit.CostCalculatorParameterizedTest" />
-        <item itemvalue="JUnit.CostCalculatorParameterizedTest.createExemplarySms" />
+        <item itemvalue="JUnit.PaginatorTest" />
+        <item itemvalue="JUnit.OptimalCompressorTest" />
+        <item itemvalue="JUnit.NaiveCompressorTest" />
         <item itemvalue="JUnit.CostCalculatorTest" />
-        <item itemvalue="JUnit.PaginatorTest.testPaginate" />
       </list>
     </recent_temporary>
   </component>
@@ -458,42 +391,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CostCalculatorParameterizedTest - 2018.12.16 at 19h 23m 52s.xml">
+    <history-entry file="CostCalculatorTest - 2018.12.22 at 14h 08m 37s.xml">
+      <configuration name="CostCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CostCalculatorParameterizedTest - 2018.12.22 at 14h 09m 14s.xml">
       <configuration name="CostCalculatorParameterizedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest - 2018.12.16 at 19h 24m 14s.xml">
+    <history-entry file="CostCalculatorParameterizedTest - 2018.12.22 at 14h 09m 49s.xml">
       <configuration name="CostCalculatorParameterizedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest - 2018.12.16 at 19h 26m 16s.xml">
+    <history-entry file="CostCalculatorTest - 2018.12.22 at 14h 11m 21s.xml">
+      <configuration name="CostCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CostCalculatorParameterizedTest - 2018.12.22 at 14h 12m 00s.xml">
       <configuration name="CostCalculatorParameterizedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest_simpleCalcTest - 2018.12.16 at 19h 27m 53s.xml">
-      <configuration name="CostCalculatorParameterizedTest.simpleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest_createExemplarySms - 2018.12.16 at 19h 28m 03s.xml">
-      <configuration name="CostCalculatorParameterizedTest.createExemplarySms" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest_simpleCalcTest - 2018.12.16 at 19h 28m 27s.xml">
-      <configuration name="CostCalculatorParameterizedTest.simpleCalcTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest_createExemplarySms - 2018.12.16 at 19h 41m 37s.xml">
-      <configuration name="CostCalculatorParameterizedTest.createExemplarySms" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest - 2018.12.16 at 19h 42m 21s.xml">
+    <history-entry file="CostCalculatorParameterizedTest - 2018.12.22 at 14h 14m 24s.xml">
       <configuration name="CostCalculatorParameterizedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest_simpleCalcTest - 2018.12.16 at 19h 49m 49s.xml">
-      <configuration name="CostCalculatorParameterizedTest.simpleCalcTest" configurationId="JUnit" />
+    <history-entry file="CostCalculatorTest - 2018.12.22 at 14h 15m 40s.xml">
+      <configuration name="CostCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CostCalculatorParameterizedTest_simpleCalcTest - 2018.12.16 at 19h 51m 43s.xml">
-      <configuration name="CostCalculatorParameterizedTest.simpleCalcTest" configurationId="JUnit" />
+    <history-entry file="CostCalculatorTest - 2018.12.22 at 14h 16m 22s.xml">
+      <configuration name="CostCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CostCalculatorTest - 2018.12.22 at 14h 17m 03s.xml">
+      <configuration name="CostCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CostCalculatorParameterizedTest - 2018.12.22 at 14h 17m 43s.xml">
+      <configuration name="CostCalculatorParameterizedTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83870965" visible="true" weight="0.19395973" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83870965" visible="true" weight="0.031543624" />
       <window_info id="Structure" order="1" sideWeight="0.16129032" side_tool="true" weight="0.13489933" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -503,12 +436,12 @@
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49932885" weight="0.22379604" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932885" visible="true" weight="0.3895184" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49932885" visible="true" weight="0.45750707" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.09915014" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932885" weight="0.19546743" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932885" weight="0.11857143" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.43829787" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32904148" />
@@ -535,9 +468,9 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java</url>
-          <line>29</line>
+          <line>11</line>
           <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -677,25 +610,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-end-line="37" />
+        <state relative-caret-position="600">
+          <caret line="36" column="32" selection-start-line="36" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/requests/FilterRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/NaiveCompressorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="20">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="e#326#327#0" expanded="true" />
             <element signature="e#390#391#0" expanded="true" />
@@ -712,41 +642,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Paginator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="220">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#830#838#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PaginatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="214">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="34" column="84" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
+        <state relative-caret-position="394">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="92" selection-start-line="23" selection-start-column="92" selection-end-line="23" selection-end-column="92" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -755,11 +682,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CostCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="220">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CostCalculatorParameterizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>

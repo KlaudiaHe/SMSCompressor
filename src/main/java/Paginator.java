@@ -9,6 +9,8 @@ public class Paginator {
         Paginator paginator = new Paginator(10);
         String text = "iuqqqqqqqqqqqqqqqqqqqqqqqqqqqaaaaaaaaaaaaaaaaaaa";
         System.out.println(paginator.paginate(text));
+        String text2 = "";
+        System.out.println(paginator.paginate(text2));
 
     }
 
