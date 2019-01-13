@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OptimalCompressorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-13T11:32:32" hostname="DESKTOP-MKDRCFK" time="0.013">
+  <properties/>
+  <testcase name="testOptimalDecompressor" classname="OptimalCompressorTest" time="0.011"/>
+  <testcase name="testOptimalCompressor" classname="OptimalCompressorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
