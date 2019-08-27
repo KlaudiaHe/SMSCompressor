@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NaiveCompressorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-13T11:32:32" hostname="DESKTOP-MKDRCFK" time="0.004">
+<testsuite name="NaiveCompressorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-27T13:50:47" hostname="DESKTOP-MKDRCFK" time="0.01">
   <properties/>
-  <testcase name="testNaiveCompressor" classname="NaiveCompressorTest" time="0.003"/>
-  <testcase name="testNaiveDecompressor" classname="NaiveCompressorTest" time="0.001"/>
+  <testcase name="testNaiveCompressor" classname="NaiveCompressorTest" time="0.007"/>
+  <testcase name="testNaiveDecompressor" classname="NaiveCompressorTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
