@@ -41,4 +41,4 @@ public class PicocliApp {
     }
 }
 
-//code based on Wojtek's solution: https://github.com/Cato-Old/compressSMS/tree/picocli/src/main/java/Compressor
+//PicoCLI code based on Wojtek's solution: https://github.com/Cato-Old/compressSMS/tree/picocli/src/main/java/Compressor

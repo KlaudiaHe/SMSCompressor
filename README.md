@@ -1,2 +1,2 @@
 ###
-This is a project for compressing text messages.
+This app is meant to compress text messages.
